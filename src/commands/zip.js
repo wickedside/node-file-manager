@@ -1,0 +1,7 @@
+const performCompress = () => {
+
+};
+
+const performDecompress = () => {
+
+};
